@@ -36,7 +36,6 @@ class Sponsored(OLXBase):
         :param token: A valid token for authentication.
         """
         super().__init__(token)
-        self.token = token
 
     def sponsor_listing(self, listing_id, sponsor_type, days, refresh_every, locations):
         """
