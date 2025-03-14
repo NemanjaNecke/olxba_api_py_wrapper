@@ -12,7 +12,6 @@ class Users(OLXBase):
         :param token: A valid Bearer token for authentication.
         """
         super().__init__(token)
-        self.token = token
 
     def get_active_listings(self, username, page=1):
         """
