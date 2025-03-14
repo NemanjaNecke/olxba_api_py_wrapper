@@ -25,7 +25,7 @@ vSponsor listings, retrieve sponsorship pricing, set discounts, and finish disco
 ```
 git clone https://github.com/NemanjaNecke/olxba_api_py_wrapper.git
 cd olx_api
-pip install -r requirements.txt  # if you have external dependencies
+pip install -r requirements.txt
 ```
 
 **Alternatively, you can use it as a local package by installing it in editable mode:**
