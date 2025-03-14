@@ -23,7 +23,7 @@ vSponsor listings, retrieve sponsorship pricing, set discounts, and finish disco
 ## Installation
 >Clone the repository and install it locally
 ```
-git clone https://github.com/yourusername/olx_api.git
+git clone https://github.com/NemanjaNecke/olxba_api_py_wrapper.git
 cd olx_api
 pip install -r requirements.txt  # if you have external dependencies
 ```
